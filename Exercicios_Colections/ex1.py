@@ -31,6 +31,3 @@ print(df)
 for i in carros:
     if i[1] == economico:
         print(f'O modelo: {i[0]}, é o mais economico')
-    
-
-
