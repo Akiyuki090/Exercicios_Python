@@ -13,7 +13,7 @@ for l in range(n):
     linha = []
     for c in range(n):
         numero = int(
-            input(" digite o numero que ficara armazezanod0 {},{} :".format(l, c)))
+            input(" Numero que ficara armazenado {},{} :".format(l, c)))
         linha.append(numero)
     matriz[l] = linha
 

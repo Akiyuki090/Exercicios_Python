@@ -1,3 +1,7 @@
+'''
+Fibonacci
+'''
+
 def fib (n):
     resultado = []
     a, b = 0, 1
